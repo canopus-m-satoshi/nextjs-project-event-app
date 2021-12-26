@@ -6133,3 +6133,6 @@ node_modules/yocto-queue/readme.md
 .next/build-manifest.json
 .next/react-loadable-manifest.json
 .next/server/pages/events/[...slug].js
+.next/server/pages/events/[eventId].js
+.next/server/pages/events/[eventId].js
+.next/static/chunks/pages/events/[eventId].js
