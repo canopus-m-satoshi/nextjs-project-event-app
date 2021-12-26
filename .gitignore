@@ -6152,3 +6152,16 @@ node_modules/yocto-queue/readme.md
 .next/static/webpack/ea787036e6b84cc9118c.hot-update.json
 .next/static/webpack/pages/index.59abd3b053e569c5d8c6.hot-update.js
 .next/static/webpack/pages/index.ea787036e6b84cc9118c.hot-update.js
+.next/static/webpack/03a77e0a07beea892d9c.hot-update.json
+.next/static/webpack/c53af07d36c5b1274c72.hot-update.json
+.next/static/webpack/f40c9e0d71555d4699c9.hot-update.json
+.next/static/webpack/pages/index.c53af07d36c5b1274c72.hot-update.js
+.next/static/webpack/pages/index.f40c9e0d71555d4699c9.hot-update.js
+*.log
+.cache
+.DS_Store
+src/.temp
+node_modules
+dist
+.env
+.env.*
