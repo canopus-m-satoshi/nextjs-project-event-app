@@ -6554,3 +6554,9 @@ components/events/event-item.js
 .next/static/webpack/pages/events/[eventId].df3b364b285eb7cd7d76.hot-update.js
 .next/static/webpack/pages/events/[eventId].e0dca2a1e85dc2add04e.hot-update.js
 .next/static/webpack/pages/events/[eventId].e85332deb154e00a33d7.hot-update.js
+.next/*
+.next/cadhe/*
+.next/cadhe/dll/*
+.next/server/*
+.next/dll/*
+node_modules/*
